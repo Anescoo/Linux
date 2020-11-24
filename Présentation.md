@@ -7,3 +7,4 @@
 <br/>
 
 - PowerShell vous permet d’obtenir facilement des données sur les paramètres système courants, d’apporter des modifications aux objets, de gérer les services et de gérer l’accès aux systèmes, y compris aux systèmes de fichiers. Une bonne connaissance des scripts PowerShell vous permet de gagner du temps sur de nombreuses fonctions administratives, sans avoir à acheter ni à implémenter d’outils tiers.
+---
