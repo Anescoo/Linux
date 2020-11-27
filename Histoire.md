@@ -32,25 +32,25 @@
 - **<u>14 Décembre 2005:</u>** Microsoft publie le Beta 1 d'Exchange Server 2007, dont l'interface en ligne de commande est basée sur Windows Monad
 </ul>
 
-- **<u>10 Janvier 2006:</u>** 
+- **<u>10 Janvier 2006:</u>** Microsfoft publie la **Beta 3.0** de Monad pour les platformes x86 et x64. Microsfoft annonce que la version contient une partie des fonctions de la version finale.
 </ul>
 
-- **<u>9 Mars 2006:</u>**
+- **<u>9 Mars 2006:</u>** Microsoft publie une réactualisation de Monad **(Beta 3.1)** pour les environnements x86 et x64.
 </ul>
 
-- **<u>25 Avril 2006:</u>**
+- **<u>25 Avril 2006:</u>** C'est lors d'une présentation publique que **Bob Muglia** annonce que le nom de code Monad est remplacé par **Windows PowerShell**. 
 </ul>
 
-- **<u>24 Mai 2006:</u>**
+- **<u>24 Mai 2006:</u>** Lors d'une conférence Bob Muglia annonce que Windows PowerShell ne sera finalement pas intégré aux environnements serveurs de Microsoft à partir de la version **"R2"** de Longhorn, dont la date de publication devait être 2009.
 </ul>
 
-- **<u>14 Novembre 2006:</u>**
+- **<u>14 Novembre 2006:</u>** Microsoft annonce la disponibilité de PowerShell lors du **TechEd IT Forum 2006** pour **Windows XP SP2**, **Windows Vista**, **Windows Servers 2003** ansi que les futures plateformes systèmes. Ils annoncent également l'intégration de Windows PowerShell dans les environnements **Exhange Server 2007** , **System Center Operations Manager 2007**, **System Center Data Protection Manager V2** et **System Center Virtual Machine Manager**.
 </ul>
 
-- **<u>16 Décembre 2006:</u>**
+- **<u>16 Décembre 2006:</u>** (pour les abonnés du programme de license en volume) Exchange Server 2007 RTM est mis en ligne sur les sites detéléchargement.
 </ul>
 
-- **<u>26 Décembre 2006:</u>**
+- **<u>26 Décembre 2006:</u>** (pour les abonnés MSDN) Exhange Server 2007 est mis en ligne sur les sites de téléchargement.
   
-
+![](PPOWERSHELL.png)
 
