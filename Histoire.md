@@ -1,6 +1,6 @@
 # HISTOIRE
 
-##Introduction : 
+**Introduction :**
 
 - Avant PowerShell il existait déjà plusieurs interfaces en ligne de commande. PowerShell n'est en effet pas le premier dans son genre : 
   - command.com (MS-DOS) de **Windows Me**, **Windows 98**
@@ -9,7 +9,7 @@
 - Windows PowerShell anciennement nommé **Microsoft Command Shell (MSH)**, avais pour nom de code **Monad**.
 
 ---
-##Historique :
+**Historique :**
 
 - **<u>17 Juin 2004:</u>** Jeffrey Snover, concepteur de Windows PowerShell, fait pour la première fois une présentation détaillée de **Monad**. La première version fait donc son apparition lors du PDC 2004
 </ul>
