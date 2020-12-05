@@ -12,8 +12,10 @@
 - Variables
 - Boucles
 - [Scripts](https://github.com/Anescoo/Linux/blob/main/Script.md)
-- Sources
 - Commandes
 
+>#### Autres
+- Sources
+- Images
 
   
