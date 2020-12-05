@@ -1,7 +1,9 @@
 ![](Powershell.png)
-### Sommaire
+## Sommaire
 - [Définition](https://github.com/Anescoo/Linux/blob/main/D%C3%A9finition.md)
 - [Histoire](https://github.com/Anescoo/Linux/blob/main/Histoire.md)
+
+### Les commandes PowerShell
 - Installation
 - Variables
 - Boucles
@@ -9,5 +11,5 @@
 - Sources
 - Commandes
 
-### Les commandes PowerShell
+
   
