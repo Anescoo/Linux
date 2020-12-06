@@ -1,4 +1,7 @@
 ![](Powershell.png)
+
+PowerShell est une interface de gestion de la configuration et de l'automatisation des tâches. Mon objectif étant de vous faire une brève et complète présentation de l'infrastructure.
+
 ## SOMMAIRE
 
 >#### Présentation
