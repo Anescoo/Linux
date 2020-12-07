@@ -3,12 +3,12 @@
    - >Get-Childltem  
       -  Lorsque la commande est exécuté, elle indique plusieurs informations sur les objets listés (Nom, Date de dernière modification, etc...)
             ![](Images/Linux.PNG)
-
+        ```
         En Orange : Exécution de la commande
         En Rouge : Les permissions 
         En Vert :  Les dates des dernières modifications
         En Violet : Le nom des objets (archive, répertoire) 
-        
+        ```
  ---        
   - >Get-Alias
       - Lorsque la commande est exécuté, toute la liste des alias existant sur votre système s'affiche.
