@@ -13,4 +13,4 @@
 
 >- **Shell** : https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux/42867-introduction-aux-scripts-shell
 
->- **Variable** : https://blog.netwrix.fr/2019/05/30/variables-et-tableaux-powershell/
+>- **Variable** : https://docs.microsoft.com/fr-fr/powershell/scripting/learn/ps101/03-discovering-objects?view=powershell-7.1/ & ***Wikipédia***
