@@ -44,12 +44,16 @@
 ---
 - **[type]$NomVariable** = 'Hello'
   - forcer le typage d'une variable
+  
     ![](Images/typeforce.PNG)
+
 ---
 
 - **Get-Variable | Out-String**
   - Afficher les variables
+  
     ![](Images/getvariable.PNG)
+    
 ---
     Pour Imprimer une variable :
 
