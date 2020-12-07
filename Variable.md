@@ -60,6 +60,7 @@
 1. *Enregistrer dans un fichier .txt*
 - **$var5 = "Hello World!"**
 - **$var5 | Out-File C:\scripts\Hello_World.txt**
+  
   >J'enregistre le fichier texte avec le chemin indiqué
 ![](Images/1.PNG) 
 
