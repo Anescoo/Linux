@@ -83,13 +83,13 @@
 
 ---
     Pour Effacer une variable
-- **Clear-Variable -name var6 #without $**
+- **Clear-Variable -name varshell #without $**
   - > Après avoir exécuté la commande, la variable *"$"* s'est bien effacé
   ![](Images/6.PNG)
 
 ---
     Supprimer une variable
-- **Remove-Variable -name var6 #without $**
+- **Remove-Variable -name varshell #without $**
   - > Après avoir exécuté la commande, la variable *"$"* s'est bien supprimé
   ![](Images/7.PNG)
 --- 
