@@ -60,7 +60,6 @@
 1. *Enregistrer dans un fichier .txt*
 - **$var5 = "Hello World!"**
 - **$var5 | Out-File C:\scripts\Hello_World.txt**
-  
     - >J'enregistre le fichier texte avec le chemin indiqué
           ![](Images/1.PNG) 
 
@@ -71,11 +70,10 @@
 2. *Enregistrer dans un ficher .csv*
 - **$var6 = Get-Process**
 - **$var6 | SELECT Name, Path |Export-Csv -Path C:\scripts\processes.csv**
-
-    - > J'enregistre le fichier **.csv** avec le chemin indiquée
+   - > J'enregistre le fichier **.csv** avec le chemin indiquée
       ![](Images/3.PNG)
 
-     - > Je me déplace dans le dossier **Documents** et je constate la présence du fichier **.csv** (nommé *"processes"*)
+    - > Je me déplace dans le dossier **Documents** et je constate la présence du fichier **.csv** (nommé *"processes"*)
   ![](Images/4.PNG)
 
 Pour lire un fichier que vous avez exporté
