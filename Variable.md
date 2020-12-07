@@ -59,7 +59,7 @@
 
 1. *Enregistrer dans un fichier .txt*
 - **$var5 = "Hello World!"**
-- **$var5 | Out-File C:\scripts\Hello_World.txt**
+- **$var5 | Out-File C:Users\arnau\Documents\Hello_World.txt**
     - >J'enregistre le fichier texte avec le chemin indiqué
       ![](Images/1.PNG) 
 
@@ -69,23 +69,27 @@
 
 2. *Enregistrer dans un ficher .csv*
 - **$var6 = Get-Process**
-- **$var6 | SELECT Name, Path |Export-Csv -Path C:\scripts\processes.csv**
+- **$var6 | SELECT Name, Path |Export-Csv -Path C:\Users\arnau\Documents\processes.csv**
    - > J'enregistre le fichier **.csv** avec le chemin indiquée
   ![](Images/3.PNG)
 
     - > Je me déplace dans le dossier **Documents** et je constate la présence du fichier **.csv** (nommé *"processes"*)
   ![](Images/4.PNG)
-
-Pour lire un fichier que vous avez exporté
-- **Get-Content C:\scripts\processes.csv**
+---
+    Pour lire un fichier que vous avez exporté
+- **Get-Content C:Users\arnau\Documents\processes.csv**
+  - > Après avoir exécuté la commande, une liste de tous les fichiers exportés s'est affiché
+  ![](Images/5.PNG)
 
 ---
     Pour Effacer une variable
-
 - **Clear-Variable -name var6 #without $**
+  - > Après avoir exécuté la commande, la variable *"$"* s'est bien effacé
+  ![](Images/6.PNG)
 
 ---
     Supprimer une variable
 - **Remove-Variable -name var6 #without $**
-
----
+  - > Après avoir exécuté la commande, la variable *"$"* s'est bien supprimé
+  ![](Images/7.PNG)
+--- 
