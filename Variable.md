@@ -53,13 +53,19 @@
   - Afficher les variables
   
     ![](Images/getvariable.PNG)
-    
+
 ---
     Pour Imprimer une variable :
 
 1. *Enregistrer dans un un fichier .txt*
 - **$var5 = "Hello World!"**
 - **$var5 | Out-File C:\scripts\Hello_World.txt**
+>J'enregistre dans le fichier texte avec le chemin indiqué
+![](Images/1.PNG) 
+
+>Je me déplace dans le dossier **Documents** et je constate la présence du fichier **.txt** (nommé *"Hello_World"*)
+![](Images/2.PNG)
+
 
 2. *Enregistrer dans un ficher .csv*
 - **$var6 = Get-Process**
