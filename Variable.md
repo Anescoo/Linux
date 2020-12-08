@@ -61,6 +61,7 @@
 - **$varshell = "Hello World!"**
 - **$varshell | Out-File C:Users\arnau\Documents\Hello_World.txt**
     - >J'enregistre le fichier texte avec le chemin indiqué
+      
       ![](Images/1.PNG) 
 
     - >Je me déplace dans le dossier **Documents** et je constate la présence du fichier **.txt** (nommé *"Hello_World"*)
