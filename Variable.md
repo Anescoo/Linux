@@ -58,8 +58,8 @@
     Pour Imprimer une variable :
 
 1. *Enregistrer dans un fichier .txt*
-- **$var5 = "Hello World!"**
-- **$var5 | Out-File C:Users\arnau\Documents\Hello_World.txt**
+- **$varshell = "Hello World!"**
+- **$varshell | Out-File C:Users\arnau\Documents\Hello_World.txt**
     - >J'enregistre le fichier texte avec le chemin indiqué
       ![](Images/1.PNG) 
 
@@ -68,8 +68,8 @@
 
 
 2. *Enregistrer dans un ficher .csv*
-- **$var6 = Get-Process**
-- **$var6 | SELECT Name, Path |Export-Csv -Path C:\Users\arnau\Documents\processes.csv**
+- **$varsh1 = Get-Process**
+- **$varsh1 | SELECT Name, Path |Export-Csv -Path C:\Users\arnau\Documents\processes.csv**
    - > J'enregistre le fichier **.csv** avec le chemin indiquée
   ![](Images/3.PNG)
 
