@@ -56,6 +56,7 @@ Foreach(<élément> in <collection>)
 **collection** - variable qui regroupe l'ensemble de valeurs.
 **bloc d'instruction** - c'est l'ensemble des actions à réaliser à chaque tour sur l'objet concerné.
 
+
 - 2 << pipeline >>
 
 ```
@@ -63,8 +64,9 @@ Get-Service | Foreach-Object { "$($_.Name) dans l'état : $($_.Status) ($($_.Sta
 }
 
 ```
-Cette syntaxte tient sur qu'une seule ligne elle est donc parfaite pour être exécutée sur PowerShell. La commande Get-Service va envoyer sa "collection" d'objets à la boucle *Foreach-Object* qui va traiter chaque objet.
+*Cette syntaxe tient sur qu'une seule ligne elle est donc parfaite pour être exécutée sur PowerShell. La commande **Get-Service** va envoyer sa "**collection**" d'objets à la boucle **Foreach-Object** qui va traiter chaque objet.*
 
+---
 *EXEMPLES*
 
 **1.** << *bloc script* >>
