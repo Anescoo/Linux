@@ -32,6 +32,7 @@ Pour qu'une boucle **for** soit fonctionnel, il faut saisir une valeur de dépar
 
 
 **Voici le résultat de la boucle *for***
+
 ![](Images/forboucle1.PNG)
 
 ---
