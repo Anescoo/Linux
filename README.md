@@ -13,7 +13,17 @@ PowerShell est une interface de gestion de la configuration et de l'automatisati
 - [Installation](https://github.com/Anescoo/Linux/blob/main/Installation.md)
 - [Variables & Types](https://github.com/Anescoo/Linux/blob/main/Variable.md)
 - [Boucles](https://github.com/Anescoo/Linux/blob/main/Boucles.md)
+    - For
+    - ForEach
+    - While
+    - Until
+
 - [Scripts](https://github.com/Anescoo/Linux/blob/main/Script.md)
+    - Script de gestion des comptes utilisateurs
+    - Script d'installation automatique d'un serveur web Apache
+    - Script de sauvegardes automatique d'un serveur web Apache
+    - Script d'un annuaire téléphonique
+    - Script d'un agenda
 - [Commandes](https://github.com/Anescoo/Linux/blob/main/Commandes.md)
 
 >#### Outils
