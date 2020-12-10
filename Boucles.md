@@ -71,6 +71,8 @@ Get-Service | Foreach-Object { "$($_.Name) dans l'état : $($_.Status) ($($_.Sta
 *EXEMPLES*
 
 **1.** << *bloc script* >>
+
+
 ![](Images/foreach1.0.PNG)
 
 >***ps: ne pas prêter attention a "# Bloc d'instructions"***
@@ -110,4 +112,4 @@ La variable automatique "**`$_`**" remplace "**`$element`**".
 
 ![](Images/foreach2.1.PNG)
 
-
+---
