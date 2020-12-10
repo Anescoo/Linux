@@ -68,7 +68,7 @@ Cette syntaxte tient sur qu'une seule ligne elle est donc parfaite pour être ex
 *EXEMPLES*
 
 **1.** << *bloc script* >>
-    ![](Images/foreach1.0.PNG)
+![](Images/foreach1.0.PNG)
 
 >***ps: ne pas prêter attention a "# Bloc d'instructions"***
 
