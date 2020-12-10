@@ -77,6 +77,7 @@ Cette syntaxte tient sur qu'une seule ligne elle est donc parfaite pour être ex
 * `Foreach($element in $collection)` **-->** on va parcourir chacun des services présent dans notre collection de données ce qui va nous permettre de réaliser des actions sur chaque éléments. Les actions sont déterminés dans le bloc d'instrcution. Chaque élément correspond donc à un seul objet de notre collection. On va répéter la boucle jusqu'a arriver a la fin de la collection.
 
 * `"$($element.Name) dans l'état : $($element.Status)` `$($element.StartType))"` **-->** affichage du **nom de service** suivie de la phrase "**dans l'état :**", son statue et son **mode de démarrage**.
+  
 ![](Images/foreach1.1.PNG)
 
 
@@ -103,6 +104,7 @@ Grâce a la pipeline le script n'est plus qu'une commande puisqu'elle tient sur 
 La variable automatique "**`$_`**" remplace "**`$element`**".
 
 2. Résultat après exécution de la commande.
+
 ![](Images/foreach2.1.PNG)
 
 
