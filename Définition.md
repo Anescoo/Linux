@@ -10,9 +10,3 @@
 
 
 ![](Images/book.jpg)
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-[2.](https://github.com/Anescoo/Linux/blob/main/Histoire.md)
