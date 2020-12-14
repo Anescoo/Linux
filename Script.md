@@ -6,10 +6,3 @@
 
 
 # TP
---
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
- [7.](https://github.com/Anescoo/Linux/blob/main/Commandes.md)
