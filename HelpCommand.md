@@ -12,8 +12,7 @@ Par ailleurs on peut toute fois précisé la commande pour poussé la recherche,
 
 * ex: **Get-Help *Get***
 * En exécutant la commande j'obtiens donc la liste des commandes commençant par le même argument "**Get**"
-  
-  ![](Images/gethelpcommand.PNG)
+![](Images/gethelpcommand.PNG)
 
 ---
 
