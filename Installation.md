@@ -17,13 +17,7 @@
 5. **Lancer Powershell**
 - pwsh
 ---
---
- <br/> 
- <br/> 
- <br/> 
- <br/> 
- <br/> 
-[4.](https://github.com/Anescoo/Linux/blob/main/Variable.md)
+
 
 
 
