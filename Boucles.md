@@ -119,4 +119,4 @@ La variable automatique "**`$_`**" remplace "**`$element`**".
 <br/>
 <br/>
 <br/>
-[4.](https://github.com/Anescoo/Linux/blob/main/Boucles.md)
+[6.](https://github.com/Anescoo/Linux/blob/main/Script.md)
