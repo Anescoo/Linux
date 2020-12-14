@@ -18,7 +18,8 @@ PowerShell est une interface de gestion de la configuration et de l'automatisati
 - [Boucles](https://github.com/Anescoo/Linux/blob/main/Boucles.md)
     - [For](https://github.com/Anescoo/Linux/blob/main/Boucles.md)
     - [ForEach](https://github.com/Anescoo/Linux/blob/main/Boucles.md)
-- [Commandes](https://github.com/Anescoo/Linux/blob/main/Commandes.md)
+- [Commandes Courante](https://github.com/Anescoo/Linux/blob/main/Commandes.md)
+- [Commandes Aide](https://github.com/Anescoo/Linux/blob/main/HelpCommand.md)
 ---
 >#### Scripts
 - [Scripts](https://github.com/Anescoo/Linux/blob/main/Script.md)
