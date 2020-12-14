@@ -9,6 +9,8 @@
 
 >- **Commandes** : http://www.infonovice.fr/decouvrir-les-commandes-de-base-sous-powershell/
 
+>- **Commmandes Aide** : https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/update-help?view=powershell-7.1 & **Wikipédia**
+
 >- **Scripts** : https://www.youtube.com/watch?v=Ecdl1pOMtmE&start=1006s
 
 >- **Shell** : https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux/42867-introduction-aux-scripts-shell
