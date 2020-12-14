@@ -94,10 +94,3 @@
   - > Après avoir exécuté la commande, la variable *"$"* s'est bien supprimé
   ![](Images/7.PNG)
  
---
-<br/>
-<br/>  
-<br/> 
-<br/> 
-<br/> 
-[5.](https://github.com/Anescoo/Linux/blob/main/Boucles.md)
