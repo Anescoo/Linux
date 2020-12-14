@@ -17,10 +17,3 @@
 
 >- **Boucles**  https://www.youtube.com/watch?v=h4z610jQANM&list=PLSuzYIVSEUT4lxDRCvar3sjh5QceTmQSj&index=1 & https://www.youtube.com/watch?v=cUCTcvK5OsU&list=PLSuzYIVSEUT4lxDRCvar3sjh5QceTmQSj&index=3 & https://www.it-connect.fr/powershell-et-les-boucles-for-loop/
 
---
-<br/>
-<br/>
-<br/>
-<br/>
-<br/> 
- [9.](https://github.com/Anescoo/Linux/tree/main/Images)
