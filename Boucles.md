@@ -113,7 +113,7 @@ La variable automatique "**`$_`**" remplace "**`$element`**".
 ![](Images/foreach2.1.PNG)
 
 ---
-.
+--
 <br/>
 <br/>
 <br/>
