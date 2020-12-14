@@ -2,8 +2,10 @@
 
 >Get-Help
 
-- Une fois la commande exécuté on obtient ce descriptif, qui permet d'avoir un rapide aperçu de powershell, et de comment obtenir de l'aide.
-![](Images/gethelp.PNG)
+- Une fois la commande exécuté on obtient ce descriptif, qui permet d'avoir un rapide aperçu de powershell, et de comment obtenir de l'aide. 
+  
+  
+  ![](Images/gethelp.PNG)
   
 ---
 Par ailleurs on peut toute fois précisé la commande pour poussé la recherche, et donc avec une réponse précise.
