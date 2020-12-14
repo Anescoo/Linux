@@ -113,3 +113,10 @@ La variable automatique "**`$_`**" remplace "**`$element`**".
 ![](Images/foreach2.1.PNG)
 
 ---
+.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+[4.](https://github.com/Anescoo/Linux/blob/main/Boucles.md)
