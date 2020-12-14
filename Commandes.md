@@ -126,4 +126,12 @@ $TestVariable.Length = Afficher le nombre de caractère
 
  - >PipeLine = "  **|**  "
     - pipeline permet la liaison entre deux commandes, cela permet de filtrer les données, affiner un résultat
----
+--- 
+
+--
+<br/>
+<br/>
+<br/>
+<br/>
+<br/> 
+ [8.](https://github.com/Anescoo/Linux/blob/main/Source.md)
