@@ -85,9 +85,9 @@ Get-Service | Foreach-Object { "$($_.Name) dans l'état : $($_.Status) ($($_.Sta
 <br/>
 
 * `$collection = Get-Service` **-->** on déclare la variable `"$collection"`, on va lui affecter la valeur Get-Service. La variable `$collection` va donc prendre pour valeur la liste de nos services présent sur la machine windwows.
-<br/>
+
 * `Foreach($element in $collection)` **-->** on va parcourir chacun des services présent dans notre collection de données ce qui va nous permettre de réaliser des actions sur chaque éléments. Les actions sont déterminés dans le bloc d'instrcution. Chaque élément correspond donc à un seul objet de notre collection. On va répéter la boucle jusqu'a arriver a la fin de la collection.
-<br/>
+
 * `"$($element.Name) dans l'état : $($element.Status)` `$($element.StartType))"` **-->** affichage du **nom de service** suivie de la phrase "**dans l'état :**", son statue et son **mode de démarrage**.
   
 ![](Images/foreach1.1.PNG)
