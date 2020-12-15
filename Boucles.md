@@ -112,7 +112,7 @@ Grâce a la pipeline le script n'est plus qu'une commande puisqu'elle tient sur 
 <br/>
 
 * `Get-Service | Foreach-Object` **-->** La commande "Get-Service" va donner pour résultat l'état, le mode de démarrage et le nom des services. Grâce a **pipeline** le résultat de la 1*ere* commande va être envoyé à la deuxième : " *Foreach-Object* ". Grâce à la deuxième commande on aura un résultat pour chaques objets. 
-<br/>
+
 * `$($_.Name) dans l'état : $($_.Statue ($($_.StartType))` **-->** On va pouvoir récupérer un nom d'un objet envoyé par **Get-Service** grâce à `$_.Name`. Sera suivie de la phrase " ***dans l'état :*** " puis du statue du service avec `$_.Status` et pour finir du mode de démarrage avec `$_.StartType`.
 
 La variable automatique "**`$_`**" remplace "**`$element`**".
