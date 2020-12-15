@@ -31,7 +31,7 @@ Pour qu'une boucle **for** soit fonctionnel, il faut saisir une valeur de dépar
 
 ![](Images/forboucle.PNG)
 
-1. On donne la veule initial de 0 à la variable **i** .
+1. On donne la valeur initial de 0 à la variable **i** .
 2. On donne la condition de répétition.
 3. On donne l'incrémentation qui est d'ajouter **1** a chaque tour.
 
