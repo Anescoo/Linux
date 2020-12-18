@@ -23,3 +23,6 @@
 12.   [Images](https://github.com/Anescoo/Linux/tree/main/Images) (page suivante) 
 ---
  ***Retour***  [Sommaire](https://github.com/Anescoo/Linux)
+
+ ---
+ 12.   ***Retour*** [Sommaire](https://github.com/Anescoo/Linux)
