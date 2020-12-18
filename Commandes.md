@@ -115,7 +115,6 @@ $TestVariable.Length = Afficher le nombre de caractère
 
     ![](Images/pwd.PNG)
 ---
-
 - >New-Item 
   -  *Permet de créer des répertoires* : 
    **New-Item -Item Type directory -Name 'PowerShellWork' -Path**
@@ -127,3 +126,5 @@ $TestVariable.Length = Afficher le nombre de caractère
  - >PipeLine = "  **|**  "
     - pipeline permet la liaison entre deux commandes, cela permet de filtrer les données, affiner un résultat
 --- 
+ 
+ 8. [Commandes d'Aide](https://github.com/Anescoo/Linux/blob/main/HelpCommand.md) (page suivante) 
