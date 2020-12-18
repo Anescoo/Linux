@@ -53,3 +53,7 @@
 - **<u>26 Décembre 2006:</u>** (pour les abonnés MSDN) Exhange Server 2007 est mis en ligne sur les sites de téléchargement.
   
 ![](PPOWERSHELL.png)
+
+---
+
+3. [Shell](https://github.com/Anescoo/Linux/blob/main/TypeShell.md) (page suivante)
