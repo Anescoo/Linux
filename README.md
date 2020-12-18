@@ -4,14 +4,14 @@ PowerShell est une interface de gestion de la configuration et de l'automatisati
 
 ## SOMMAIRE
 ---
->#### Présentation de Powershell
+>#### Présentation de Powershell 
 - [Définition](https://github.com/Anescoo/Linux/blob/main/D%C3%A9finition.md)
 - [Histoire](https://github.com/Anescoo/Linux/blob/main/Histoire.md)
 - [Shell](https://github.com/Anescoo/Linux/blob/main/TypeShell.md)
 ---
 >#### Les commandes Powershell
 
-- [Installation](https://github.com/Anescoo/Linux/blob/main/Installation.md)
+- [Installations](https://github.com/Anescoo/Linux/blob/main/Installation.md)
     - [Linux](https://github.com/Anescoo/Linux/blob/main/Installation.md)
     - [Windows](https://github.com/Anescoo/Linux/blob/main/Installation.md)
 - [Variables & Types](https://github.com/Anescoo/Linux/blob/main/Variable.md)
@@ -30,3 +30,20 @@ PowerShell est une interface de gestion de la configuration et de l'automatisati
 - [Sources](https://github.com/Anescoo/Linux/blob/main/Source.md)
 - [Images](https://github.com/Anescoo/Linux/tree/main/Images)
 
+---
+>#### Conclusion
+- [Avis personnels & Impressions](https://github.com/Anescoo/Linux/blob/main/Avis.md)
+
+
+
+
+
+---
+
+
+
+
+
+
+
+1. [Définition](https://github.com/Anescoo/Linux/blob/main/D%C3%A9finition.md) (page suivante)
