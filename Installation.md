@@ -37,3 +37,7 @@
 4. **Une fois que le téléchargement (dans le naviguateur) sera terminé il ne restera plus qu'a suivre les différentes étapes indiquées à l'écran.**
 ---
  **Votre PowerShell est prêt à l'emploi**
+
+ ---
+
+ 5. [Variables & Types](https://github.com/Anescoo/Linux/blob/main/Variable.md) (page suivante)
