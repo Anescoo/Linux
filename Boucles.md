@@ -122,3 +122,4 @@ La variable automatique "**`$_`**" remplace "**`$element`**".
 ![](Images/foreach2.1.PNG)
 
 ---
+7. [Commandes Courante](https://github.com/Anescoo/Linux/blob/main/Commandes.md) (page suivante)
