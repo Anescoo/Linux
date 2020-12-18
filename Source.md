@@ -5,9 +5,9 @@
 
 >- **Histoire** : https://www.itpro.fr/historique-de-powershell/
 
->- **Installation** : https://docs.microsoft.com/fr-fr/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7.1
+>- **Installations** : https://docs.microsoft.com/fr-fr/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7.1
 
->- **Commandes** : http://www.infonovice.fr/decouvrir-les-commandes-de-base-sous-powershell/
+>- **Commandes Courantes** : http://www.infonovice.fr/decouvrir-les-commandes-de-base-sous-powershell/
 
 >- **Commmandes Aide** : https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/update-help?view=powershell-7.1 & **Wikipédia**
 
@@ -19,3 +19,7 @@
 
 >- **Boucles**  https://www.youtube.com/watch?v=h4z610jQANM&list=PLSuzYIVSEUT4lxDRCvar3sjh5QceTmQSj&index=1 & https://www.youtube.com/watch?v=cUCTcvK5OsU&list=PLSuzYIVSEUT4lxDRCvar3sjh5QceTmQSj&index=3 & https://www.it-connect.fr/powershell-et-les-boucles-for-loop/
 
+---
+12.   [Images](https://github.com/Anescoo/Linux/tree/main/Images) (page suivante) 
+---
+ ***Retour***  [Sommaire](https://github.com/Anescoo/Linux)
