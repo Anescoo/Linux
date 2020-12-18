@@ -53,4 +53,4 @@
     ![](Images/Script1.4.PNG)
 
 ---
-13.  [Avis personnel & Impressions](https://github.com/Anescoo/Linux/blob/main/Avis.md) (page suivante) 
+10.  [Avis personnel & Impressions](https://github.com/Anescoo/Linux/blob/main/Avis.md) (page suivante) 
