@@ -19,3 +19,6 @@ Le Shell est un programme qui gère l'invite de commandes.
 
 >L'Evolution des Shells
 ![](Images/shémashell.png)
+
+---
+4. [Installations](https://github.com/Anescoo/Linux/blob/main/Installation.md) (page suivante)
