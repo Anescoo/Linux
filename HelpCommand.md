@@ -26,3 +26,4 @@ Par ailleurs on peut toute fois précisé la commande pour poussé la recherche,
 *en effet on remarque le téléchargement de fichier*
 
 ---
+9. [Scripts](https://github.com/Anescoo/Linux/blob/main/Script.md) (page suivante) 
